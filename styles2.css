@@ -1,0 +1,56 @@
+#imagen{
+	width: 190px;
+    height: 130px;
+}
+
+#lis{
+	display: inline;
+	text-align: center;
+
+	
+}
+li{
+	display: inline;
+
+}
+
+ul{
+	list-style-type: none;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+nav{
+	background-color: #ccf5ff;
+}
+a{
+	color: #000000;
+}
+
+menu{
+	color: #088A4B;
+}
+
+.navbar{
+	color: #088A4B;
+
+}
+
+#p{
+	color:#004d00;
+}
+
+#espacios{
+	background-color: #c1f0c1;
+}
+
+#tabla{
+	background-color: #C0FAFB;
+	text-align: justify;
+}
+
+.img{
+	height: 250px;
+	width: 220px;
+}
